@@ -75,6 +75,7 @@ The application also displays the prediction probability for both classes.
 - Streamlit
 - NumPy
 - Pandas
+- Seaborn
 - Scikit-learn
 - Pickle
 
