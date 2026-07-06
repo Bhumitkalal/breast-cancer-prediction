@@ -170,7 +170,7 @@ https://github.com/Bhumitkalal
 
 **LinkedIn**
 
-https://www.linkedin.com/in/bhumit-kalal-132696359/
+https://www.linkedin.com/in/bhumitkalal
 
 ---
 
